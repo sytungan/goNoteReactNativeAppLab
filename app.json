@@ -1,0 +1,12 @@
+{
+  "name": "goNote",
+  "displayName": "goNote",
+  "expo": {
+    "name": "goNote",
+    "slug": "goNote",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
